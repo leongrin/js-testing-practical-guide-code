@@ -1,4 +1,4 @@
-import { extractPostData, savePost } from '../01-start-lesson-71/posts/posts.js';
+import { extractPostData, savePost } from './posts/posts.js';
 
 const formElement = document.querySelector('form');
 
